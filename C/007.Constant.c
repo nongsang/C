@@ -14,4 +14,6 @@ int main()
 	printf("p : %d\n", p);		// 매크로 상수로 정의된 값 출력
 	printf("num1 : %d\n", num1);// const 상수로 정의된 값 출력
 	printf("num2 : %d\n", num2);
+
+	return 0;
 }
