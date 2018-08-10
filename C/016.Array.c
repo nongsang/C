@@ -22,4 +22,6 @@ int main()
 	{
 		printf("studant2[%d] : %d\n", i, student2[i]);	// student2 배열은 초기화를 했지만 값을 넣어주지 않은 부분은 0으로 초기화한다.
 	}
+
+	return 0;
 }
