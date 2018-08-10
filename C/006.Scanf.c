@@ -46,4 +46,6 @@ int main()
 	printf("문자열 : ");
 	scanf("%s", &string);				// 배열형에 입력을 할 때 &를 붙여도 된다.
 	printf("문자열 : %s\n", string);
+
+	return 0;
 }
